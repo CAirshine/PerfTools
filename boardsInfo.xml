@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boards>
+	<!-- 描述/IP/端口/用户/密码/top命令关键字1/top命令关键字2 -->
+	<board>
+		<desc>Access</desc>
+		<host>10.26.0.210</host>
+		<port>22</port>
+		<user>root</user>
+		<pw>huawei@123</pw>
+		<top_keyword_1>java</top_keyword_1>
+		<top_keyword_2>root</top_keyword_2>
+	</board>
+</boards>

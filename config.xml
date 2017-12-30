@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <!-- [prefix]platfrom_version(suffix) -->  
+  <prefix>SDV1</prefix>  
+  <platform>HiboardPerfTest</platform>  
+  <version>1.2.3.100</version>  
+  <suffix>CPdelay</suffix>  
+  <!-- 性能测试脚本单板 -->  
+  <host>10.26.0.210</host>  
+  <user>root</user>  
+  <port>22</port>  
+  <pw>huawei@123</pw> 
+</root>
